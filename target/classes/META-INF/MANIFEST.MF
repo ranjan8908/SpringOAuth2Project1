@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-cloud-oauth2-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Ranjan
+Implementation-Vendor-Id: com.javatechie
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-cloud-oauth2-example
+Created-By: Maven Integration for Eclipse
+
